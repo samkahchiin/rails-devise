@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
+gem 'devise'
+gem 'omniauth'
+
+gem 'haml', '~> 4.0.5'
+gem "haml-rails", "~> 0.9"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
